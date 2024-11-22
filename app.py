@@ -85,7 +85,7 @@ st.write(prediction_proba)
 
 
 st.sidebar.markdown("""
-	[Go back to portfolio](ainurafifah00.github.io)
+	[Go back to portfolio](https://ainurafifah00.github.io/)
 	""")
 
 
